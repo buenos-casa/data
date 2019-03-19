@@ -1,0 +1,3 @@
+[submodule "OpenRefine"]
+	path = OpenRefine
+	url = https://github.com/OpenRefine/OpenRefine
