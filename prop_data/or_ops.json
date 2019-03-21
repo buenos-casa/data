@@ -1,0 +1,378 @@
+[
+    {
+      "op": "core/column-addition",
+      "engineConfig": {
+        "facets": [],
+        "mode": "record-based"
+      },
+      "baseColumnName": "longitud",
+      "expression": "grel:if(cells[\"LON\"].value != null, cells[\"LON\"].value, cells[\"longitud\"])",
+      "onError": "keep-original",
+      "newColumnName": "longitude",
+      "columnInsertIndex": 2,
+      "description": "Create column longitude at index 2 based on column longitud using expression grel:if(cells[\"LON\"].value != null, cells[\"LON\"].value, cells[\"longitud\"])"
+    },
+    {
+      "op": "core/column-removal",
+      "columnName": "longitud",
+      "description": "Remove column longitud"
+    },
+    {
+      "op": "core/column-addition",
+      "engineConfig": {
+        "facets": [],
+        "mode": "record-based"
+      },
+      "baseColumnName": "latitud",
+      "expression": "grel:if(cells[\"LAT\"].value != null, cells[\"LAT\"].value, cells[\"latitud\"])",
+      "onError": "keep-original",
+      "newColumnName": "latitude",
+      "columnInsertIndex": 3,
+      "description": "Create column latitude at index 3 based on column latitud using expression grel:if(cells[\"LAT\"].value != null, cells[\"LAT\"].value, cells[\"latitud\"])"
+    },
+    {
+      "op": "core/column-removal",
+      "columnName": "latitud",
+      "description": "Remove column latitud"
+    },
+    {
+      "op": "core/column-removal",
+      "columnName": "File",
+      "description": "Remove column File"
+    },
+    {
+      "op": "core/column-removal",
+      "columnName": "LON",
+      "description": "Remove column LON"
+    },
+    {
+      "op": "core/column-removal",
+      "columnName": "LAT",
+      "description": "Remove column LAT"
+    },
+    {
+      "op": "core/text-transform",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "longitude",
+      "expression": "grel:if(cells[\"LONGITUD\"].value != null, cells[\"LONGITUD\"].value, cells[\"longitude\"].value)",
+      "onError": "keep-original",
+      "repeat": false,
+      "repeatCount": 10,
+      "description": "Text transform on cells in column longitude using expression grel:if(cells[\"LONGITUD\"].value != null, cells[\"LONGITUD\"].value, cells[\"longitude\"].value)"
+    },
+    {
+      "op": "core/text-transform",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "latitude",
+      "expression": "grel:if(cells[\"LATITUD\"].value != null, cells[\"LATITUD\"].value, cells[\"latitude\"].value)",
+      "onError": "keep-original",
+      "repeat": false,
+      "repeatCount": 10,
+      "description": "Text transform on cells in column latitude using expression grel:if(cells[\"LATITUD\"].value != null, cells[\"LATITUD\"].value, cells[\"latitude\"].value)"
+    },
+    {
+      "op": "core/column-removal",
+      "columnName": "LONGITUD",
+      "description": "Remove column LONGITUD"
+    },
+    {
+      "op": "core/column-removal",
+      "columnName": "LATITUD",
+      "description": "Remove column LATITUD"
+    },
+    {
+      "op": "core/text-transform",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "fecha",
+      "expression": "grel:replaceChars(value, '-', '/')",
+      "onError": "keep-original",
+      "repeat": false,
+      "repeatCount": 10,
+      "description": "Text transform on cells in column fecha using expression grel:replaceChars(value, '-', '/')"
+    },
+    {
+      "op": "core/text-transform",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "fecha",
+      "expression": "grel:if(value != null, value, cells['FECHA'])",
+      "onError": "keep-original",
+      "repeat": false,
+      "repeatCount": 10,
+      "description": "Text transform on cells in column fecha using expression grel:if(value != null, value, cells['FECHA'])"
+    },
+    {
+      "op": "core/text-transform",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "fecha",
+      "expression": "value.toDate()",
+      "onError": "keep-original",
+      "repeat": false,
+      "repeatCount": 10,
+      "description": "Text transform on cells in column fecha using expression value.toDate()"
+    },
+    {
+      "op": "core/column-removal",
+      "columnName": "FECHA",
+      "description": "Remove column FECHA"
+    },
+    {
+      "op": "core/text-transform",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "dolares",
+      "expression": "value.toNumber()",
+      "onError": "keep-original",
+      "repeat": false,
+      "repeatCount": 10,
+      "description": "Text transform on cells in column dolares using expression value.toNumber()"
+    },
+    {
+      "op": "core/text-transform",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "numero",
+      "expression": "value.toNumber()",
+      "onError": "keep-original",
+      "repeat": false,
+      "repeatCount": 10,
+      "description": "Text transform on cells in column numero using expression value.toNumber()"
+    },
+    {
+      "op": "core/text-transform",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "calle",
+      "expression": "value.toLowercase()",
+      "onError": "keep-original",
+      "repeat": false,
+      "repeatCount": 10,
+      "description": "Text transform on cells in column calle using expression value.toLowercase()"
+    },
+    {
+      "op": "core/text-transform",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "calle",
+      "expression": "grel:if(value != null, value, cells[\"CALLE\"].value)",
+      "onError": "keep-original",
+      "repeat": false,
+      "repeatCount": 10,
+      "description": "Text transform on cells in column calle using expression grel:if(value != null, value, cells[\"CALLE\"].value)"
+    },
+    {
+      "op": "core/text-transform",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "calle",
+      "expression": "value.toLowercase()",
+      "onError": "keep-original",
+      "repeat": false,
+      "repeatCount": 10,
+      "description": "Text transform on cells in column calle using expression value.toLowercase()"
+    },
+    {
+      "op": "core/column-removal",
+      "columnName": "CALLE",
+      "description": "Remove column CALLE"
+    },
+    {
+      "op": "core/text-transform",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "numero",
+      "expression": "grel:if(value != null, value, cells[\"NUMERO\"].value)",
+      "onError": "keep-original",
+      "repeat": false,
+      "repeatCount": 10,
+      "description": "Text transform on cells in column numero using expression grel:if(value != null, value, cells[\"NUMERO\"].value)"
+    },
+    {
+      "op": "core/column-removal",
+      "columnName": "NUMERO",
+      "description": "Remove column NUMERO"
+    },
+    {
+      "op": "core/text-transform",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "m2",
+      "expression": "grel:if(value != null, value, cells[\"M2\"])",
+      "onError": "keep-original",
+      "repeat": false,
+      "repeatCount": 10,
+      "description": "Text transform on cells in column m2 using expression grel:if(value != null, value, cells[\"M2\"])"
+    },
+    {
+      "op": "core/column-removal",
+      "columnName": "M2",
+      "description": "Remove column M2"
+    },
+    {
+      "op": "core/text-transform",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "dolares",
+      "expression": "grel:if(value != null, value, cells[\"DOLARES\"])",
+      "onError": "keep-original",
+      "repeat": false,
+      "repeatCount": 10,
+      "description": "Text transform on cells in column dolares using expression grel:if(value != null, value, cells[\"DOLARES\"])"
+    },
+    {
+      "op": "core/column-removal",
+      "columnName": "DOLARES",
+      "description": "Remove column DOLARES"
+    },
+    {
+      "op": "core/text-transform",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "pesos",
+      "expression": "grel:if(value != null, value, cells[\"PESOS\"])",
+      "onError": "keep-original",
+      "repeat": false,
+      "repeatCount": 10,
+      "description": "Text transform on cells in column pesos using expression grel:if(value != null, value, cells[\"PESOS\"])"
+    },
+    {
+      "op": "core/column-removal",
+      "columnName": "PESOS",
+      "description": "Remove column PESOS"
+    },
+    {
+      "op": "core/text-transform",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "u_s_m2",
+      "expression": "grel:if(value != null, value, cells[\"U_S_M2\"].value)",
+      "onError": "keep-original",
+      "repeat": false,
+      "repeatCount": 10,
+      "description": "Text transform on cells in column u_s_m2 using expression grel:if(value != null, value, cells[\"U_S_M2\"].value)"
+    },
+    {
+      "op": "core/column-removal",
+      "columnName": "U_S_M2",
+      "description": "Remove column U_S_M2"
+    },
+    {
+      "op": "core/text-transform",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "barrio",
+      "expression": "grel:if(value != null, value, cells[\"BARRIOS\"].value)",
+      "onError": "keep-original",
+      "repeat": false,
+      "repeatCount": 10,
+      "description": "Text transform on cells in column barrio using expression grel:if(value != null, value, cells[\"BARRIOS\"].value)"
+    },
+    {
+      "op": "core/column-removal",
+      "columnName": "BARRIOS",
+      "description": "Remove column BARRIOS"
+    },
+    {
+      "op": "core/text-transform",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "comuna",
+      "expression": "grel:if(value != null, value, cells[\"COMUNA\"].value)",
+      "onError": "keep-original",
+      "repeat": false,
+      "repeatCount": 10,
+      "description": "Text transform on cells in column comuna using expression grel:if(value != null, value, cells[\"COMUNA\"].value)"
+    },
+    {
+      "op": "core/column-removal",
+      "columnName": "COMUNA",
+      "description": "Remove column COMUNA"
+    },
+    {
+      "op": "core/text-transform",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "barrio",
+      "expression": "value.toLowercase()",
+      "onError": "keep-original",
+      "repeat": false,
+      "repeatCount": 10,
+      "description": "Text transform on cells in column barrio using expression value.toLowercase()"
+    },
+    {
+      "op": "core/text-transform",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "cotiz",
+      "expression": "grel:if(value != null, value, cells[\"COTIZ\"].value)",
+      "onError": "keep-original",
+      "repeat": false,
+      "repeatCount": 10,
+      "description": "Text transform on cells in column cotiz using expression grel:if(value != null, value, cells[\"COTIZ\"].value)"
+    },
+    {
+      "op": "core/column-removal",
+      "columnName": "COTIZ",
+      "description": "Remove column COTIZ"
+    },
+    {
+      "op": "core/text-transform",
+      "engineConfig": {
+        "facets": [],
+        "mode": "row-based"
+      },
+      "columnName": "barrio",
+      "expression": "grel:if(value != null, value, cells[\"BARRIO\"].value)",
+      "onError": "keep-original",
+      "repeat": false,
+      "repeatCount": 10,
+      "description": "Text transform on cells in column barrio using expression grel:if(value != null, value, cells[\"BARRIO\"].value)"
+    },
+    {
+      "op": "core/column-removal",
+      "columnName": "BARRIO",
+      "description": "Remove column BARRIO"
+    }
+  ]
