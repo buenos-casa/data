@@ -4,5 +4,5 @@ Collection of data found for the visualization of Buenos Aires housing. Uses ope
 
 Everything is in csv format.
 
-prop_data: https://data.buenosaires.gob.ar/dataset/terrenos-valor-de-oferta
+prop_data: [https://data.buenosaires.gob.ar/dataset/terrenos-valor-de-oferta](Terrenos Valor de Oferta)
 
