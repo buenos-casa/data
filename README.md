@@ -6,6 +6,9 @@ Everything is in csv format.
 
 prop_data: [Terrenos Valor de Oferta](https://data.buenosaires.gob.ar/dataset/terrenos-valor-de-oferta)
 
+## Example of data
+![Buenos Aires](map_example.png)
+
 #### Important information:
 
 | **Term** | **Definition** |
