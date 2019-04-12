@@ -1,0 +1,102 @@
+long,lat,id,objeto,nombre,comuna
+-58.4497663377443,-34.5453056273984,1,Estadio,Monumental Antonio Vespucio Liberti,13
+-58.5206633023988,-34.6353302822112,2,Estadio,José Amalfitani,9
+-58.3647578638825,-34.6357361054272,3,Estadio,Alberto J. Armando,4
+-58.3965659311413,-34.6434616828113,4,Estadio,Tomás Adolfo Ducó,4
+-58.4402206537969,-34.652037774849,5,Estadio,Pedro Bidegain,7
+-58.4645255572806,-34.6578677846918,6,Estadio,Estadio Nueva España,9
+-58.4997533034693,-34.6680548186919,7,Estadio,República de Mataderos,9
+-58.4730282035083,-34.6062764076556,8,Estadio,Diego Armando Maradona,11
+-58.4476874806095,-34.6185840408399,9,Estadio,Arquitecto Ricardo Etcheverri,6
+-58.4978449274547,-34.6165260649432,10,Estadio,Estadio Islas Malvinas,10
+-58.4492738375116,-34.5949090421977,11,Estadio,Don León Kolbowsky,15
+-58.461926529389,-34.5411774563433,12,Estadio,Juan Pasquale,13
+-58.4431557962165,-34.5588388531396,13,Estadio,Coliseo del Bajo Belgrano,13
+-58.3968611907066,-34.6475043768536,15,Estadio,"Claudio Chiqui"" Tapia """,4
+-58.4884576852379,-34.5941414592145,16,Estadio,Alfredo Ramos,15
+-58.5156918286413,-34.6132869330386,17,Estadio,Estadio Enrique Sexto,11
+-58.4302816630777,-34.5622382531287,18,Estadio,Billoch Caride,14
+-58.4265618654418,-34.5715537662885,19,Estadio,"""La Catedral del Polo""",14
+-58.4194699085156,-34.5680397371448,20,Estadio,GEBA (sede Jorge Newbery),14
+-58.3658495825069,-34.6320312231714,21,Estadio,Microestadio Luis Conde,4
+-58.3684286442721,-34.602620813573,22,Estadio,Luna Park,1
+-58.446196583368,-34.6771768435592,23,Estadio,Estadio Mary Terán de Weiss,8
+-58.4581218521634,-34.545537538516,24,Estadio,Club Atlético Obras Sanitarias de la Nación,13
+-58.443404135619,-34.6533406140494,25,Estadio,Guillermo Laza,8
+-58.471469748784,-34.5919053134849,26,Estadio,Microestadio Malvinas Argentinas,15
+-58.4486371840027,-34.5464263236206,27,Estadio,Microestadio River Plate,13
+-58.4488352829472,-34.6185215731039,28,Estadio,Hector Etchart,6
+-58.456713141317,-34.5463295667752,29,Estadio,Cenard,13
+-58.4679400686761,-34.698094232851,30,Estadio,Autodromo Oscar y Juan Galvez,8
+-58.4518961450275,-34.6645727780083,14,Estadio,“Beto” Larrosa,8
+-58.4414540262024,-34.5719318849302,,Federacion,Asociación Metropolitana de Squash,13
+-58.4038467664154,-34.6375159592299,,Federacion,Federación Metropolitana de Taekwondo,4
+-58.4412220368555,-34.6676524393422,,Federacion,Asociación Metropolitana de Cazadores y Tiradores con Arco,8
+-58.4168477994321,-34.6196633951995,,Federacion,Federación Metropolitana de Balonmano,5
+-58.4160164695928,-34.6067146089176,,Federacion,Federación Porteña de Patín,5
+-58.4420900564415,-34.6038674085451,,Federacion,Federación de Tenis de Mesa de la Ciudad de Buenos Aires,15
+-58.4393613409869,-34.5939926672294,,Federacion,Federación Metropolitana de Arte Marcial Chino Wu Shu,15
+-58.4147670127688,-34.6097818274225,,Federacion,Federación Metropolitana de Voley,5
+-58.39102484475,-34.5943133183827,,Federacion,Federación Argentina de Canoas,2
+-58.3782703133302,-34.5954335984918,,Federacion,Asociación Metropolitana de Padel,1
+-58.5008230906489,-34.5881006096643,,Federacion,Asociación Metropolitana de Futbol de Salón,12
+-58.3764709526244,-34.6026352830205,,Federacion,Asociación Argentina de Tenis,1
+-58.4638621660536,-34.5588536034485,,Federacion,Asociación Metropolitana de Tenis Adaptado,13
+-58.3961270721551,-34.5901661630462,,Federacion,Unión de Rugby Buenos Aires,2
+-58.4194779735812,-34.5880853636077,,Federacion,Federación Argentina de Bochas,14
+-58.3778777692155,-34.6013845419136,,Federacion,Asociación Metropolitana de Artes Marciales Chinas,1
+-58.5178859313663,-34.6269166483709,,Federacion,Federación de Karate de la Ciudad de Buenos Aires,10
+-58.438872244175,-34.5911296364412,,Federacion,Asociación Metropolitana de Ciclismo,15
+-58.3766927349638,-34.6079635328042,,Federacion,Asociación Argentina de Remeros Aficionados,1
+-58.421446702925,-34.6052623171448,,Federacion,Federación Metropolitana de Billar,5
+-58.3766927349638,-34.6079635328042,,Federacion,Federación Argentina de Pato y Horseball,1
+-58.4544077422318,-34.6406379725827,,Federacion,Liga Metropolitana de Beisbol,7
+-58.4008014282409,-34.6182268878216,,Federacion,Asociación Femenina Metropolitana de Basquet,3
+-58.4168041105712,-34.613536993474,,Federacion,Federación Atletica Metropolitana,5
+-58.46366917231,-34.5419750675278,,Federacion,Federación de Cestoball de Capital Federal,13
+-58.4572307403131,-34.6191871809264,,Federacion,Federación Argentina de Futbol Silencioso,7
+-58.3875054836623,-34.59850220151,,Federacion,Asociación de Patinadores Metropolitanos,2
+-58.4882544346532,-34.6221131217858,,Federacion,Federación Argentina de Netball,10
+-58.4511821844434,-34.6128668826196,,Federacion,Federación Metropolitana de  Pelota,6
+-58.50671085948,-34.5939457103483,,Federacion,Federación Argentina de Voleibol de Sordos,11
+-58.4835855470482,-34.5464165877141,,Federacion,Federación Argentina de Patinaje sobre Hielo,12
+-58.4792824337753,-34.6531915422143,,Federacion,Asociación Civil Escuela Metropolitana Hockey Sobre Hielo,9
+-58.3867854666497,-34.6113121983992,,Federacion,Federación Argentina de Triatlón,1
+-58.3725544946634,-34.6223345949692,,Federacion,Federación Metropolitana de Gimnasia,1
+-58.3889578122075,-34.6027945295684,,Federacion,Federación de Natación de Buenos Aires,1
+-58.5104208707655,-34.633284619872,,Federacion,Asociación Softbol de Buenos Aires,10
+-58.3731262496845,-34.6120391869952,,Federacion,Federación de Esgrima de la Ciudad de Buenos Aires,1
+-58.3838974213414,-34.6043714538029,,Federacion,Federación Metropolitana de Judo,1
+-58.3984538107897,-34.6058540132103,,Federacion,Federación Argentina de Centros Comunitarios Macabeos,3
+-58.3842719019694,-34.6122934266405,,Federacion,Federación Argentina de Tiro con Arco,1
+-58.3858999050532,-34.6129863767001,,Federacion,Asociación Amateur de Hockey sobre Cesped de Buenos Aires (A.A.H.B.A),1
+-58.4651201131391,-34.6412130137052,,Federacion,Federación Metropolitana de Bowling,7
+-58.3933012857734,-34.6214596771092,,Federacion,Federación Regional de Basquetbol de Capital Federal,3
+-58.4841795727718,-34.6154973071847,,Federacion,Federación Argentina de Deportes para personas con Discapacidad Mental,11
+-58.5014377797747,-34.6602235262605,2,Pista de Skate,Plaza Alberdi,9
+-58.4339664854988,-34.6075822975112,4,Pista de Skate,Parque Centenario,6
+-58.3990291405528,-34.5994903328057,5,Pista de Skate,Plazoleta Maimonides,3
+-58.421275955351,-34.5685133653225,6,Pista de Skate,Plaza Haití,14
+-58.5050156608036,-34.6018976073805,7,Pista de Skate,Plazoleta Roffo,11
+-58.3930713822566,-34.6284401808356,8,Pista de Skate,Polo Circo,4
+-58.4655935380423,-34.6864256843464,9,Pista de Skate,Skate Park Lugano,8
+-58.5251150631593,-34.6162091906116,10,Pista de Skate,Plaza Las Toscaneras,10
+-58.4124932322685,-34.6582518221155,11,Pista de Skate,Paseo del Riachuelo,4
+-58.4383120842126,-34.5507892214416,1,Pista de Skate,Plaza Paseo de las Americas,13
+-58.4281984097246,-34.5500770791255,3,Pista de Skate,Parque Costanera,13
+-58.4742972315677,-34.6460080345386,1,Polideportivo,AVELLANEDA,9
+-58.4447411760323,-34.6330745192493,2,Polideportivo,CHACABUCO,7
+-58.4446741367092,-34.5794594978438,3,Polideportivo,COLEGIALES,13
+-58.4767720087481,-34.5916364980214,4,Polideportivo,COSTA RICA,15
+-58.3764131296855,-34.6381418468453,5,Polideportivo,DON PEPE,4
+-58.4960447276625,-34.6674350806665,6,Polideportivo,DORREGO,9
+-58.4085767657369,-34.6260852784296,7,Polideportivo,MARTIN FIERRO,3
+-58.5137582460452,-34.5944241740242,8,Polideportivo,ONEGA,11
+-58.4088940560445,-34.6390976996566,9,Polideportivo,PATRICIOS,4
+-58.4911509087536,-34.6223474860795,10,Polideportivo,POMAR,10
+-58.5131533538682,-34.6461944501804,11,Polideportivo,SANTOJANNI,9
+-58.3894321267513,-34.649279232219,12,Polideportivo,PEREYRA,4
+-58.4017985221642,-34.5726986207638,13,Polideportivo,MANUEL BELGRANO (ex KDT),14
+-58.4415247657096,-34.6680106421335,14,Polideportivo,JULIO A. ROCA,8
+-58.4985102827665,-34.5531024373884,15,Polideportivo,SARMIENTO,12
+-58.4345296635117,-34.5584411681151,16,Polideportivo,CAMPO DE GOLF,14
