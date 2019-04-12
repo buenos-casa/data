@@ -13,3 +13,5 @@
 1. Refer to [Notebook](../Discover%20Data.ipynb) for how 3,4 and 5 were created. 
 2. Used [barrios data](../shape%20files/barrios.csv) from the Baires government [portal](https://data.buenosaires.gob.ar/dataset/barrios)
 
+
+
