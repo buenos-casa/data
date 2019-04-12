@@ -1,8 +1,15 @@
 ### Properati Data
 
-| Data | Description |
-| ----- | ------------ |
-| rent-2015 | Sample data for rented properties that were created in 2015 |
-| rent-combined | Data for rented properties - FULL DATASET |
+| Index | Data | Description |
+| ----- | ----- | ------------ |
+| 1 | rent-2015 | Sample data for rented properties that were created in 2015 |
+| 2 | rent-combined | Data for rented properties - FULL DATASET |
+| 3 | properati_barrios_grouped | Properati data within Baires grouped by barrios - with basic stats (properati + census + barrios and grouped) |
+| 4 | properati_census_barrios | Properati data within Baires with each property linked to a barrio - no stats (properati + census + barrios no grouping) |
+| 5 | properati_barrios | `properati_barrios_grouped` but in JSON|
 
--58.50666, -34.60705, -58.50598, -34.60781, -58.50529, -34.60856, -58.50462, -34.60931, -58.50476, -34.6094, -58.50574, -34.61002, [-58.50591, -34.61013], [-58.50606, -34.61022], [-58.50664, -34.61059], [-58.5068, -34.61068], [-58.50715, -34.6103], [-58.50748, -34.6099], [-58.50759, -34.60978], [-58.50816, -34.60911], [-58.50882, -34.60834], [-58.50864, -34.60823], [-58.50813, -34.60793], [-58.50795, -34.60782], [-58.50778, -34.60772], [-58.50666, -34.60705]]]
+#### Notes:
+
+1. Refer to [Notebook](../Discover%20Data.ipynb) for how 3,4 and 5 were created. 
+2. Used [barrios data](../shape%20files/barrios.csv) from the Baires government [portal](https://data.buenosaires.gob.ar/dataset/barrios)
+
