@@ -1,4 +1,4 @@
 .gitattributes
 .gitmodules
-*.ipynb_checkpoints/
+*.ipynb_checkpoints/*
 
