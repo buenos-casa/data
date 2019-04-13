@@ -9,9 +9,9 @@
 | 5 | sell_census | Properties within the city of Buenos Aires that were on sale |
 | 6 | properati_barrios_grouped | Properati rent data within Baires grouped by barrios - with basic stats (properati + census + barrios and grouped) |
 | 7 | properati_census_barrios | Properati rent data within Baires with each property linked to a barrio - no stats (properati + census + barrios no grouping) |
-| 8 | properati_barrios | `properati_barrios_grouped` but in JSON|
+| 8 | properati_barrios_rent | `properati_barrios_grouped` but in JSON|
 | 9 | properati_barrios_grouped_month | Properati rent data within Baires grouped by barrios - with basic stats (properati + census + barrios and grouped by month and year) |
-| 10 | properati_barrios_month| `properati_barrios_grouped_month` but in JSON |
+| 10 | properati_rent_barrios_month| `properati_barrios_grouped_month` but in JSON |
 | 11 | properati_sell_grouped | Properati sale data within Baires with each property linked to a barrio - with basic stats (properati + census + barrios and grouped)|
 | 12 | properati_sell | `properati_sell_grouped` but in JSON |
 | 13 | properati_sell_grouped_month | Properati sale data within Baires grouped by barrios - with basic stats (properati + census + barrios and grouped by month and year) |
