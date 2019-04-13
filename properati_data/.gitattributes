@@ -1,1 +1,5 @@
 rent-combined.csv filter=lfs diff=lfs merge=lfs -text
+combined_sell.csv filter=lfs diff=lfs merge=lfs -text
+Sell_2015.csv filter=lfs diff=lfs merge=lfs -text
+sell_census.csv filter=lfs diff=lfs merge=lfs -text
+sell_census_prop_data.csv filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,12 @@
+ID,long,lat,nombre,categoria,direccion,comuna,barrio,area_de_gobierno,direccion_normalizada,observacion,objeto
+2.0,-58.5014377797747,-34.6602235262605,Plaza Alberdi,Skate Park,Av. Directorio y Av. L. de la Torre,9.0,Mataderos,Comuna,"DIRECTORIO AV. y DE LA TORRE, LISANDRO AV.",,Pista de Skate
+4.0,-58.4339664854988,-34.6075822975112,Parque Centenario,Skate Park,Av. Diaz Velez y Leopoldo Marechal,6.0,Caballito,MAyEP,"PATRICIAS ARGENTINAS AV. y CURIE, MARIA AV.",Se encuentra ubicada cerca de la intersección de Patricias Argentinas y Maria Curie (y se geocodificó en dicha dirección),Pista de Skate
+5.0,-58.3990291405528,-34.5994903328057,Plazoleta Maimonides,Pista de Skate,Av. Córdoba y Pres. J. Uriburu,3.0,Balvanera,Comuna,"CORDOBA AV. y URIBURU JOSE E., PRES.",,Pista de Skate
+6.0,-58.421275955351,-34.5685133653225,Plaza Haití,Bowl,"Av. Dorrego, av. F. Alcorta, av. C. Freire y av. Infanta Isabel",14.0,Palermo,MAyEP,"DORREGO AV. y FIGUEROA ALCORTA, PRES. AV.",,Pista de Skate
+7.0,-58.5050156608036,-34.6018976073805,Plazoleta Roffo,Pista de Skate,Av. Francisco Beiró y San Nicolás,11.0,Villa Devoto,Comuna,"BEIRO, FRANCISCO AV. y SAN NICOLAS",,Pista de Skate
+8.0,-58.3930713822566,-34.6284401808356,Polo Circo,Pista de Skate,"Brasil, av. Pichincha, av. J. de Garay y Combate de los Pozos",4.0,Parque Patricios,Comuna,BRASIL y PICHINCHA AV.,,Pista de Skate
+9.0,-58.4655935380423,-34.6864256843464,Skate Park Lugano,Skate Park,"Uriburu, Napoleón y Cafayate",8.0,Villa Lugano,Comuna,"URIBURU, NAPOLEON, GRAL y CAFAYATE",Se encuentra ubicada en Gral. Napoleón Uriburu entre Av. Soldado de la Frontera y Cafayate (y se geocodificó en dicha dirección),Pista de Skate
+10.0,-58.5251150631593,-34.6162091906116,Plaza Las Toscaneras,Pista de Skate,Cnel. Ramón Lista y Virgilio,10.0,Villa Real,Comuna,"LISTA, RAMON, CORONEL y VIRGILIO",,Pista de Skate
+11.0,-58.4124932322685,-34.6582518221155,Paseo del Riachuelo,Pista de Skate,Romero y Berutti,4.0,Nueva Pompeya,Comuna,"ROMERO y BERUTI, ARTURO",,Pista de Skate
+1.0,-58.4383120842126,-34.5507892214416,Plaza Paseo de las Americas,Skate Park,Juramento y Figueroa Alcorta,13.0,Belgrano,Comuna,"JURAMENTO y FIGUEROA ALCORTA, PRES. AV.",,Pista de Skate
+3.0,-58.4281984097246,-34.5500770791255,Parque Costanera,Skate Park,La Pampa y Av. Costanera,13.0,Belgrano,MAyEP,"LA PAMPA y OBLIGADO RAFAEL, AV.COSTANERA",Se encuentra ubicada dentro del Parque Saint Tropez (y se geocodificó dentro de dicho parque),Pista de Skate
