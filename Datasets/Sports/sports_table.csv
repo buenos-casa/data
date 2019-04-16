@@ -1,0 +1,102 @@
+index,Name,Longitude,Latitude,Type,b_id
+0,Asociación Metropolitana de Squash,-58.4414540262024,-34.5719318849302,sports club,28
+1,Federación Metropolitana de Taekwondo,-58.4038467664154,-34.6375159592299,sports club,40
+2,Asociación Metropolitana de Cazadores y Tiradores con Arco,-58.4412220368555,-34.6676524393422,sports club,37
+3,Federación Metropolitana de Balonmano,-58.416847799432105,-34.6196633951995,sports club,12
+4,Federación Porteña de Patín,-58.4160164695928,-34.606714608917606,sports club,12
+5,Federación de Tenis de Mesa de la Ciudad de Buenos Aires,-58.4420900564415,-34.603867408545106,sports club,6
+6,Federación Metropolitana de Arte Marcial Chino Wu Shu,-58.4393613409869,-34.5939926672294,sports club,6
+7,Federación Metropolitana de Voley,-58.41476701276879,-34.6097818274225,sports club,12
+8,Federación Argentina de Canoas,-58.39102484475001,-34.594313318382696,sports club,44
+9,Asociación Metropolitana de Padel,-58.378270313330205,-34.5954335984918,sports club,35
+10,Asociación Metropolitana de Futbol de Salón,-58.5008230906489,-34.5881006096643,sports club,16
+11,Asociación Argentina de Tenis,-58.376470952624395,-34.602635283020504,sports club,43
+12,Asociación Metropolitana de Tenis Adaptado,-58.4638621660536,-34.5588536034485,sports club,1
+13,Unión de Rugby Buenos Aires,-58.3961270721551,-34.5901661630462,sports club,44
+14,Federación Argentina de Bochas,-58.4194779735812,-34.588085363607696,sports club,0
+15,Asociación Metropolitana de Artes Marciales Chinas,-58.377877769215495,-34.6013845419136,sports club,43
+16,Federación de Karate de la Ciudad de Buenos Aires,-58.5178859313663,-34.6269166483709,sports club,33
+17,Asociación Metropolitana de Ciclismo,-58.438872244174995,-34.591129636441195,sports club,6
+18,Asociación Argentina de Remeros Aficionados,-58.3766927349638,-34.6079635328042,sports club,43
+19,Federación Metropolitana de Billar,-58.421446702924996,-34.6052623171448,sports club,12
+20,Federación Argentina de Pato y Horseball,-58.3766927349638,-34.6079635328042,sports club,43
+21,Liga Metropolitana de Beisbol,-58.4544077422318,-34.640637972582695,sports club,19
+22,Asociación Femenina Metropolitana de Basquet,-58.400801428240904,-34.6182268878216,sports club,4
+23,Federación Atletica Metropolitana,-58.416804110571206,-34.613536993474,sports club,12
+24,Federación de Cestoball de Capital Federal,-58.46366917231,-34.5419750675278,sports club,2
+25,Federación Argentina de Futbol Silencioso,-58.4572307403131,-34.619187180926396,sports club,19
+26,Asociación de Patinadores Metropolitanos,-58.3875054836623,-34.598502201509994,sports club,44
+27,Federación Argentina de Netball,-58.48825443465321,-34.6221131217858,sports club,8
+28,Federación Metropolitana de  Pelota,-58.4511821844434,-34.6128668826196,sports club,11
+29,Federación Argentina de Voleibol de Sordos,-58.50671085948001,-34.5939457103483,sports club,23
+30,Federación Argentina de Patinaje sobre Hielo,-58.48358554704821,-34.5464165877141,sports club,15
+31,Asociación Civil Escuela Metropolitana Hockey Sobre Hielo,-58.4792824337753,-34.6531915422143,sports club,10
+32,Federación Argentina de Triatlón,-58.386785466649705,-34.6113121983992,sports club,36
+33,Federación Metropolitana de Gimnasia,-58.3725544946634,-34.6223345949692,sports club,41
+34,Federación de Natación de Buenos Aires,-58.3889578122075,-34.6027945295684,sports club,43
+35,Asociación Softbol de Buenos Aires,-58.51042087076549,-34.633284619872,sports club,20
+36,Federación de Esgrima de la Ciudad de Buenos Aires,-58.373126249684496,-34.612039186995204,sports club,36
+37,Federación Metropolitana de Judo,-58.3838974213414,-34.6043714538029,sports club,43
+38,Federación Argentina de Centros Comunitarios Macabeos,-58.3984538107897,-34.605854013210305,sports club,4
+39,Federación Argentina de Tiro con Arco,-58.38427190196939,-34.6122934266405,sports club,36
+40,Asociación Amateur de Hockey sobre Cesped de Buenos Aires (A.A.H.B.A),-58.38589990505321,-34.6129863767001,sports club,36
+41,Federación Metropolitana de Bowling,-58.46512011313911,-34.641213013705205,sports club,19
+42,Federación Regional de Basquetbol de Capital Federal,-58.393301285773404,-34.6214596771092,sports club,5
+43,Federación Argentina de Deportes para personas con Discapacidad Mental,-58.484179572771794,-34.615497307184704,sports club,31
+0,Plaza Alberdi,-58.501437779774704,-34.6602235262605,skate park,18
+1,Parque Centenario,-58.4339664854988,-34.6075822975112,skate park,11
+2,Plazoleta Maimonides,-58.3990291405528,-34.5994903328057,skate park,4
+3,Plaza Haití,-58.421275955351,-34.5685133653225,skate park,0
+4,Plazoleta Roffo,-58.50501566080361,-34.6018976073805,skate park,23
+5,Polo Circo,-58.3930713822566,-34.6284401808356,skate park,40
+6,Skate Park Lugano,-58.4655935380423,-34.686425684346396,skate park,30
+7,Plaza Las Toscaneras,-58.52511506315929,-34.6162091906116,skate park,45
+8,Paseo del Riachuelo,-58.412493232268496,-34.6582518221155,skate park,46
+9,Plaza Paseo de las Americas,-58.4383120842126,-34.550789221441605,skate park,1
+10,Parque Costanera,-58.4281984097246,-34.5500770791255,skate park,1
+0,AVELLANEDA,-58.474297231567704,-34.6460080345386,sports center,10
+1,CHACABUCO,-58.444741176032295,-34.6330745192493,sports center,9
+2,COLEGIALES,-58.4446741367092,-34.5794594978438,sports center,28
+3,COSTA RICA,-58.4767720087481,-34.591636498021394,sports center,25
+4,DON PEPE,-58.376413129685496,-34.6381418468453,sports center,32
+5,DORREGO,-58.49604472766249,-34.6674350806665,sports center,18
+6,MARTIN FIERRO,-58.408576765736896,-34.626085278429606,sports center,5
+7,ONEGA,-58.5137582460452,-34.5944241740242,sports center,23
+8,PATRICIOS,-58.4088940560445,-34.6390976996566,sports center,40
+9,POMAR,-58.4911509087536,-34.622347486079505,sports center,8
+10,SANTOJANNI,-58.5131533538682,-34.646194450180396,sports center,21
+11,PEREYRA,-58.3894321267513,-34.649279232219,sports center,32
+12,MANUEL BELGRANO (ex KDT),-58.4017985221642,-34.5726986207638,sports center,0
+13,JULIO A. ROCA,-58.4415247657096,-34.668010642133495,sports center,37
+14,SARMIENTO,-58.4985102827665,-34.5531024373884,sports center,15
+15,CAMPO DE GOLF,-58.434529663511704,-34.5584411681151,sports center,0
+0,Club Atletico River Plate,-58.44976633774429,-34.5453056273984,futbol club,1
+1,Club Atlético Vélez Sarsfield,-58.520663302398795,-34.6353302822112,futbol club,21
+2,Club Atlético Boca Juniors,-58.3647578638825,-34.6357361054272,futbol club,24
+3,Club Atlético Huracán,-58.3965659311413,-34.643461682811306,futbol club,40
+4,Club Atlético San Lorenzo de Almagro,-58.4402206537969,-34.652037774849,futbol club,19
+5,Club Deportivo Español de Buenos Aires,-58.464525557280595,-34.6578677846918,futbol club,10
+6,Club Atlético Nueva Chicago,-58.4997533034693,-34.6680548186919,futbol club,18
+7,Asociación Atlética Argentinos Juniors,-58.4730282035083,-34.6062764076556,futbol club,7
+8,Club Ferro Carril Oeste,-58.4476874806095,-34.6185840408399,futbol club,11
+9,Club Atlético All Boys,-58.4978449274547,-34.6165260649432,futbol club,33
+10,Club Atlético Atlanta,-58.449273837511605,-34.5949090421977,futbol club,6
+11,Club Atlético Defensores de Belgrano,-58.461926529389,-34.541177456343306,futbol club,2
+12,Club Atlético Excursionistas,-58.443155796216494,-34.5588388531396,futbol club,1
+13,Club Atlético Barracas Central,-58.39686119070661,-34.6475043768536,futbol club,32
+14,Club Comunicaciones,-58.4884576852379,-34.5941414592145,futbol club,25
+15,Club Atlético General Lamadrid,-58.5156918286413,-34.6132869330386,futbol club,23
+16,Buenos Aires Lawn Tennis Club,-58.43028166307771,-34.5622382531287,futbol club,0
+17,Campo Argentino de Polo,-58.4265618654418,-34.5715537662885,futbol club,0
+18,GEBA (sede Jorge Newbery),-58.41946990851561,-34.5680397371448,futbol club,0
+19,Club Atlético Boca Juniors,-58.3658495825069,-34.632031223171396,futbol club,24
+20,Luna Park,-58.3684286442721,-34.602620813573,futbol club,43
+21,Estadio Mary Terán de Weiss,-58.446196583368,-34.677176843559195,futbol club,37
+22,Club Atlético Obras Sanitarias de la Nación,-58.4581218521634,-34.545537538516,futbol club,2
+23,Deportivo Riestra Asociación de Fomento Barrio Colón,-58.443404135619,-34.6533406140494,futbol club,37
+24,Asociación Atlética Argentinos Juniors,-58.471469748783996,-34.5919053134849,futbol club,27
+25,Club Atletico River Plate,-58.448637184002706,-34.5464263236206,futbol club,1
+26,Club Ferro Carril Oeste,-58.44883528294721,-34.6185215731039,futbol club,11
+27,Centro Nacional de Alto Rendimiento Deportivo,-58.456713141316996,-34.5463295667752,futbol club,2
+28,Autodromo Oscar y Juan Galvez,-58.4679400686761,-34.698094232851,futbol club,34
+29,Sacachispas Fútbol Club,-58.451896145027504,-34.6645727780083,futbol club,37
