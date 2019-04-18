@@ -16,3 +16,4 @@ sell[[:space:]]data/properati_sell_month.json filter=lfs diff=lfs merge=lfs -tex
 sell[[:space:]]data/sell_census_prop_data.csv filter=lfs diff=lfs merge=lfs -text
 sell[[:space:]]data/Sell_2015.csv filter=lfs diff=lfs merge=lfs -text
 sell[[:space:]]data/combining[[:space:]]sell[[:space:]]data.qgz filter=lfs diff=lfs merge=lfs -text
+sell/* filter=lfs diff=lfs merge=lfs -text
