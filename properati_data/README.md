@@ -13,8 +13,9 @@
 #### Notes:
 
 1. Refer to [Merging Rent Data Notebook](../Merging%20Rent%20Data.ipynb) for how Properati's rental data was cleaned.
-2. Refer to [Merging Purchase Data Notebool](../Merging%20Purchase%20Data.ipynb) for how Properati's sale data was cleaned.
-3. Used [barrios data](../shape%20files/barrios.csv) from the Baires government [portal](https://data.buenosaires.gob.ar/dataset/barrios)
+2. Refer to [Merging Purchase Data Notebook](../Merging%20Purchase%20Data.ipynb) for how Properati's purchase data was cleaned.
+3. Refer to [Merging Final File Notebook](../Merging%20Final%20Purchase%File.ipynb) for how the final merged file with Properati's purchase data, Buenos Aires' property values and the city's public goods.
+4. Used [barrios data](../shape%20files/barrios.csv) from the Baires government [portal](https://data.buenosaires.gob.ar/dataset/barrios)
 
 
 
